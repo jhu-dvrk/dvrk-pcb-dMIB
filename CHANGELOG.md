@@ -21,3 +21,10 @@ Rev E (4/27/2015)
   * ENCI-8J to J24.9
 * Added headers for pluggable jumpers J39, J40, J41
 * Added input filters for ENC8 A/B on J23: C17, C18, R71, R72
+
+Rev F (9/24/2018)
+=================
+* Added support for instrument one-wire interface
+  * Added U17, J42, J43
+  * Jumper J42 1-2 and J43 1-2 for direct connection from QLA to 1 wire interface
+  * Jumper J42 2-3 and J43 open to use 1-wire transceiver
