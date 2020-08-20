@@ -20,7 +20,7 @@ Rev E (4/27/2015)
   * ENCI+8J to J24.14
   * ENCI-8J to J24.9
 * Added headers for pluggable jumpers J39, J40, J41
-* Added input filters for ENC8 A/B on J23: C17, C18, R71, R72
+* Added ENC8 A/B to J23, with input filters: C17, C18, R71, R72
 
 Rev F (9/24/2018)
 =================
